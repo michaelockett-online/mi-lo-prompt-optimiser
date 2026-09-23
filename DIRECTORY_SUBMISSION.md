@@ -1,6 +1,6 @@
 # Public Plugins Directory submission
 
-MI.LO is a skills-only plugin. Use the separate `mi-lo-prompt-optimiser-0.1.0-submission.zip` package for the **Skills only** route in the [OpenAI plugin submission portal](https://platform.openai.com/plugins). Uploading this repository's GitHub source archive would include the marketplace wrapper and is not the intended submission package.
+MI.LO is a skills-only plugin. Use the [release ZIP](https://github.com/michaelockett-online/mi-lo-prompt-optimiser/releases/download/v0.1.0/mi-lo-prompt-optimiser-0.1.0-submission.zip) for the **Skills only** route in the [OpenAI plugin submission portal](https://platform.openai.com/plugins). Uploading this repository's GitHub source archive would include the marketplace wrapper and is not the intended submission package.
 
 The package contains one plugin root with `.codex-plugin/plugin.json`, one skill, its reference, its licence and a square listing icon. It contains no MCP server, external service, credentials or executable hook.
 

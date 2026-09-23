@@ -15,7 +15,7 @@ Start a new task after installation. In the ChatGPT desktop app, the added marke
 
 ## Public ChatGPT and Codex directory
 
-A GitHub marketplace is a distribution route for Codex. It does not create a public listing in the shared ChatGPT and Codex Plugins Directory. For that listing, submit the skills-only package through the [OpenAI plugin submission portal](https://platform.openai.com/plugins), complete its review and publish the approved version. [DIRECTORY_SUBMISSION.md](DIRECTORY_SUBMISSION.md) has the package details and suggested reviewer cases.
+A GitHub marketplace is a distribution route for Codex. It does not create a public listing in the shared ChatGPT and Codex Plugins Directory. For that listing, download the [skills-only ZIP](https://github.com/michaelockett-online/mi-lo-prompt-optimiser/releases/download/v0.1.0/mi-lo-prompt-optimiser-0.1.0-submission.zip), submit it through the [OpenAI plugin submission portal](https://platform.openai.com/plugins), complete its review and publish the approved version. [DIRECTORY_SUBMISSION.md](DIRECTORY_SUBMISSION.md) has the package details and suggested reviewer cases.
 
 ## Package layout
 
