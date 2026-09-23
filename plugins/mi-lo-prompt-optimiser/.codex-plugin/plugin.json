@@ -1,0 +1,34 @@
+{
+  "name": "mi-lo-prompt-optimiser",
+  "version": "0.1.0",
+  "description": "MI.LO improves and designs prompts for AI models, agents and workflows.",
+  "author": {
+    "name": "Michael Lockett"
+  },
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "prompt engineering",
+    "prompt optimisation",
+    "agents",
+    "evaluation"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "MI.LO Prompt Optimiser",
+    "shortDescription": "Improve prompts for AI tasks",
+    "longDescription": "MI.LO designs and improves prompts for models, agents and repeated workflows. It preserves user requirements, checks tool and permission boundaries and adds evaluation guidance when it matters.",
+    "developerName": "Michael Lockett",
+    "category": "Productivity",
+    "capabilities": [
+      "Design and improve AI prompts",
+      "Review agent prompts"
+    ],
+    "logo": "./assets/mi-lo-icon.png",
+    "composerIcon": "./assets/mi-lo-icon.png",
+    "defaultPrompt": [
+      "Improve this prompt while keeping every requirement.",
+      "Turn my idea into a clear, reusable AI prompt.",
+      "Review this agent prompt for gaps and failure modes."
+    ]
+  }
+}
