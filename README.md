@@ -24,7 +24,7 @@ claude plugin marketplace add michaelockett-online/mi-lo-prompt-optimiser
 claude plugin install mi-lo-prompt-optimiser@mi-lo
 ```
 
-Claude Code also supports the skill command `/mi-lo-prompt-optimiser:mi-lo-prompt-optimiser`. A [Claude plugin package](https://github.com/michaelockett-online/mi-lo-prompt-optimiser/releases) is available for manual sharing.
+Claude Code also supports the skill command `/mi-lo-prompt-optimiser:mi-lo-prompt-optimiser`. For a file upload, download the [Claude `.plugin` package](https://github.com/michaelockett-online/mi-lo-prompt-optimiser/releases/download/claude-v0.1.0/mi-lo-prompt-optimiser.plugin) and upload it as a custom plugin in Claude.
 
 Adding a personal marketplace lets people install MI.LO directly. To seek a listing in Anthropic's public community marketplace, submit the GitHub repository through the [individual author form](https://platform.claude.com/plugins/submit) or, with Team or Enterprise directory management access, the [Claude organisation form](https://claude.ai/admin-settings/directory/submissions/plugins/new). Anthropic reviews submissions before listing them.
 
