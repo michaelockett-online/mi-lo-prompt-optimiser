@@ -1,0 +1,15 @@
+{
+  "name": "mi-lo",
+  "description": "MI.LO prompt tools by Michael Lockett",
+  "owner": {
+    "name": "Michael Lockett"
+  },
+  "plugins": [
+    {
+      "name": "mi-lo-prompt-optimiser",
+      "displayName": "MI.LO Prompt Optimiser",
+      "source": "./plugins/mi-lo-prompt-optimiser",
+      "description": "Design and improve prompts for AI models, agents and workflows."
+    }
+  ]
+}

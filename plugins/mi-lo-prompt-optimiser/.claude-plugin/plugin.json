@@ -1,0 +1,17 @@
+{
+  "name": "mi-lo-prompt-optimiser",
+  "displayName": "MI.LO Prompt Optimiser",
+  "version": "0.1.0",
+  "description": "MI.LO improves and designs prompts for AI models, agents and workflows.",
+  "author": {
+    "name": "Michael Lockett"
+  },
+  "homepage": "https://github.com/michaelockett-online/mi-lo-prompt-optimiser",
+  "repository": "https://github.com/michaelockett-online/mi-lo-prompt-optimiser",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "prompt engineering",
+    "prompt optimisation",
+    "agents"
+  ]
+}
