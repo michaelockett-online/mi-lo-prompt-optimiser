@@ -3,6 +3,7 @@
   "displayName": "MI.LO Prompt Optimiser",
   "version": "0.1.0",
   "description": "MI.LO improves and designs prompts for AI models, agents and workflows.",
+  "icon": "./assets/mi-lo-icon.png",
   "author": {
     "name": "Michael Lockett"
   },
