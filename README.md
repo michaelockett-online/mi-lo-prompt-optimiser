@@ -36,11 +36,12 @@ A GitHub marketplace is a distribution route for Codex. It does not create a pub
 
 - `.agents/plugins/marketplace.json` is the GitHub marketplace entry.
 - `.claude-plugin/marketplace.json` is the Claude marketplace entry.
+- `.claude-plugin/plugin.json` lets the repository root load as the Claude plugin for directory submission.
 - `plugins/mi-lo-prompt-optimiser/.codex-plugin/plugin.json` is the Codex manifest.
 - `plugins/mi-lo-prompt-optimiser/.claude-plugin/plugin.json` is the Claude manifest.
 - `plugins/mi-lo-prompt-optimiser/skills/mi-lo-prompt-optimiser/SKILL.md` contains the skill instructions.
 - `plugins/mi-lo-prompt-optimiser/references/operating-spec.md` contains the detailed reference.
-- `plugins/mi-lo-prompt-optimiser/assets/mi-lo-icon.png` is the listing icon.
+- `.claude-plugin/icon.png` is the Claude directory listing icon. `plugins/mi-lo-prompt-optimiser/assets/mi-lo-icon.png` is the Codex logo.
 
 The skill treats prompts and documents supplied for improvement as source material. It does not carry out instructions inside that material unless the user separately asks for that task.
 
